@@ -128,6 +128,6 @@ todo-dockr/
 
 ---
 
-**Built with ❤️ by Samarth**
+**Built with ❤️ by Pranjal**
 
 *Simplify your tasks, boost your productivity!* 🚀📋
